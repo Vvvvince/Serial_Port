@@ -1,0 +1,10 @@
+F:\Project\C Sharp\chuankou\串口助手\串口助手\obj\Debug\串口助手.csprojResolveAssemblyReference.cache
+F:\Project\C Sharp\chuankou\串口助手\串口助手\obj\Debug\串口助手.Form1.resources
+F:\Project\C Sharp\chuankou\串口助手\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+F:\Project\C Sharp\chuankou\串口助手\串口助手\obj\Debug\串口助手.csproj.GenerateResource.Cache
+F:\Project\C Sharp\chuankou\串口助手\串口助手\obj\Debug\串口助手.csproj.CoreCompileInputs.cache
+F:\Project\C Sharp\chuankou\串口助手\串口助手\bin\Debug\串口助手.exe.config
+F:\Project\C Sharp\chuankou\串口助手\串口助手\bin\Debug\串口助手.exe
+F:\Project\C Sharp\chuankou\串口助手\串口助手\bin\Debug\串口助手.pdb
+F:\Project\C Sharp\chuankou\串口助手\串口助手\obj\Debug\串口助手.exe
+F:\Project\C Sharp\chuankou\串口助手\串口助手\obj\Debug\串口助手.pdb
